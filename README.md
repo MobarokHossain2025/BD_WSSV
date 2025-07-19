@@ -3,6 +3,8 @@
 Author: **MD MOBAROK HOSSAIN**  
 PhD Candidate, University of Tasmania  
 
+This repository contains scripts related to the analysis and data processing for the White Spot Syndrome Virus (WSSV) manuscript. These tools are designed to support genomic and bioinformatic workflows, including variant filtration, quality control, and downstream analysis.
+
 ## 🧬 Overview
 
 This script performs filtration on a VCF (Variant Call Format) file using custom criteria to retain only high-confidence SNPs.  
